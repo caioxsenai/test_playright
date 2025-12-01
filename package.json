@@ -1,0 +1,19 @@
+{
+  "name": "projeto_playwright",
+  "version": "1.0.0",
+  "description": "Este projeto contém testes automatizados desenvolvidos com **Playwright** para validar um formulário de cadastro de usuários.",
+  "main": "script.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
